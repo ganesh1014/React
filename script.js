@@ -1,7 +1,7 @@
 // const root=document.getElementById('root');
 
 // const header=document.createElement('h1');
-// header.innerHTML='Hello coder army';
+// header.innerHTML='Hello ';
 // header.style.backgroundColor='blue';
 // header.style.color='white';
 // root.append(header)
